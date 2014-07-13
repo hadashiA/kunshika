@@ -6,3 +6,4 @@ Makefile
 *.cache
 *.log
 .deps
+config.status
