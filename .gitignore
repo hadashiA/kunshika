@@ -1,6 +1,8 @@
-/out
+/config.h
 Makefile
-gyp-mac-tool
 *.Makefile
 *.target.mk
 *.xcodeproj
+*.cache
+*.log
+.deps

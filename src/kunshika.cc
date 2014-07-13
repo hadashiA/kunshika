@@ -2,7 +2,7 @@
 #include <string>
 
 #include <mecab.h>
-#include <Magic++.h>
+#include <Magick++.h>
 
 int main(int argc, char **argv) {
     MeCab::Tagger *tagger = MeCab::createTagger("");
