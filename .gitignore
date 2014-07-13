@@ -1,0 +1,6 @@
+/out
+Makefile
+gyp-mac-tool
+*.Makefile
+*.target.mk
+*.xcodeproj
